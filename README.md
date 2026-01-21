@@ -48,7 +48,7 @@
 Поддержка прозрачности для кнопок Yes No и Курсора
 
 ### Foldername
-(Текущая версия приложения 1.4)
+(Текущая версия приложения 1.5)
 
 ![Screen](https://github.com/mysoc126-svg/ZCreator/blob/main/Foldermane.png)
 
