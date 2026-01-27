@@ -1,3 +1,5 @@
+# Внимание - Новые версии тут https://mysoc126-svg.github.io/
+
 Набор программ для работы с ресурсами игровых приставок:
 - Data Frog Y2 SG
 - DEXP RetroGAME Flash 2
